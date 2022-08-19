@@ -1,0 +1,28 @@
+crystals crystal gems gem
+New players can get a lot of crystals at first by reading area conversations and raising Character Ranks to 5. After that, crystal income slows down considerably, but there are a number of ways to obtain them.
+===
+# F2P Crystal Sources
+
+## New Player Specific
+- Intro missions: 3000(?)
+- Welcome virtual lives: 300 each.
+- Normal missions (second tab below the monthly missions): 50 each
+
+## Permanent (can be gotten once and doesn't expire)
+- Songs: 300 per song (110 for S score rank, 50 for Hard FC, 70 for Expert FC, 70 for Master FC)
+- Player Level: 50 per level up, also 500 every 10th level (up to 300, after that every 10th level gives 5 big cans)
+- Character Rank: 500-600 (2-3 100s and one 300) every 5 ranks per character. Rank 5 for all characters can be achieved day 1, rank 10 can be done fairly easily with enough kakera, rank 15+ takes a while.
+- Challenge Live: 3400 per character for score rewards (1 million pts, though this takes a lot of time and gacha to achieve). Also, 50 per challenge stage completed. (Note: A 1 million pt run on a new character clears 3 stages without colorful pass and 4 stages with it.)
+- Card Stories: 25 for 1st story, 50 for 2nd story.
+- Main Story: 50 per chapter read. (120 chapters, so 6000 total)
+- Area Conversations: 10 each. (Unsure of exact number but there are hundreds of them)
+- Kizuna Rank: 50 crystals per pair of characters at rank 2, more at higher ranks but they are hard to reach
+
+## Limited (but recurring)
+- Login Bonuses: 300 per week
+- Virtual Lives: 300 per event
+- Event Story: 50 per chapter read. (Usually 8 chapters, so 400 total)
+- Event Shop: 500 for marathon, 450 (loss) or 500 (win) for cheerful carnival.
+- Event Tier Rewards: 250 for top 100k, 500 for top 50k, 1000 for top 5k.
+- Challenge Live: 20 per day (1-6), 100 on day 7 if you choose it.
+- Monthly Missions: 500 per month.
