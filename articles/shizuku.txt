@@ -1,0 +1,19 @@
+shizuku drop drops wish_drop wish_drops
+What does the tear drop item do?
+Wish Drops/願いの雫 (Negai no Shizuku) can be used to level up area items from Lv.10 to Lv.11.
+===
+# Wish Drops/願いの雫 (Negai no Shizuku)
+(Often casually just called Shizuku.)
+
+## Usage
+To level an area item from Lv.10 to Lv.11, you must pay the same cost as the Lv.10 upgrade, plus some number of Wish Drops.
+- Character items (except Miku): 5 Shizukus
+- Miku's character items: 1 Shizuku
+- Unit items (except VS): 15 Shizukus
+- VS unit items: 6 Shizukus
+- Attribute items: 15 Shizukus
+
+## How to Obtain
+Currently there are two ways:
+- Event shop: Costs 50000 event tokens. Limit 3 per event.
+- Kakera shop: Costs 300 kakera. Limit 15 per month.
