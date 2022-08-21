@@ -1,0 +1,29 @@
+spark seal seal_tickets green_tickets pink_tickets
+What is a spark?
+Sparking is the act of pulling 300 times on a gacha banner and getting to select one of the rate-up 4\* cards.
+===
+# Sparking and Gacha Seals
+
+## Sparking
+Whenever you pull on a gacha, you'll get one gacha seal per solo (and hence 10 seals for a 10-pull).
+If you earn 300 seals on one banner, you'll get to select one of the rate-up 4\* cards. This is called "sparking".
+(Normally this costs 300 x 300 = 90000 crystals.)
+
+## Gacha Seal Tickets
+On each banner, 10 gacha seals can be converted to 1 ticket (limit 10 times per banner).
+Then, when you spark a different banner, you can use up to 10 tickets to reduce the cost of a spark by up to 100 seals (1 ticket = 10 seals).
+Note: **Permanent gachas give green tickets** which can be used to spark other permanent gachas, and **limited/fes gachas give pink tickets** which can be used to spark other limited/fes gachas.
+
+Example: I do 10 10-pulls on a fes gacha, and convert the seals to 10 pink tickets. Later, I do 20 10-pulls on a limited gacha, earning 200 seals, and use my 10 pink tickets to spark one of the limited rate-ups.
+
+## Birthday Gachas
+Birthday gachas also can be sparked, but require only 100 seals (additionally, you can only pull 100 times). Furthermore, birthday seals cannot be converted into gacha seal tickets.
+
+## 4\* Exchange Shop
+In addition to sparking permanent cards, you can also use green tickets to exchange for old event cards and 4\*.
+- 2\* cards (6 months or older) cost 2 green tickets.
+- 3\* cards (6 months or older) cost 7 green tickets.
+- 4\* cards (1 year or older) cost 30 green tickets.
+
+## Kakera
+Any unused gacha seals can be converted into 5 kakera each.
